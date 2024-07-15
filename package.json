@@ -1,0 +1,8 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chuhuumanh/git-flow",
+  "author": "manh chu the <manhchu@fetch.tech>",
+  "license": "MIT"
+}
